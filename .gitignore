@@ -1,0 +1,8 @@
+# Agent framework — internal use only, not part of the participant program
+CLAUDE.md
+context/
+skills/
+templates/
+
+# OS
+.DS_Store
